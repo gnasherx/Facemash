@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510ae663-b8b3-458c-9229-d255f46aef85" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/.idea/dictionaries/Ganesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/src/pages/Signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../facemash-frontend/src/withRoot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facemash-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../facemash-frontend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facemash-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../facemash-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facemash-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../facemash-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../facemash-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../facemash-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facemash-frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../facemash-frontend/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -266,12 +258,12 @@
       <updated>1531626201886</updated>
       <workItem from="1531626203171" duration="5333000" />
       <workItem from="1531631565031" duration="1729000" />
-      <workItem from="1531657445423" duration="782000" />
+      <workItem from="1531657445423" duration="1300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7844000" />
+    <option name="totallyTimeSpent" value="8362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />

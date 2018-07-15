@@ -1,4 +1,3 @@
 ### Facemash
-MERN Facemash
 
 
